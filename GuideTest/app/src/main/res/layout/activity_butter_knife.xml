@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yisan.com.guidetest.test.test5.CustomFluidLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="生活烈焰"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:id="@+id/butter_knife_one"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我也想飞"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:id="@+id/butter_knife_two"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我在沉睡中醒来"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:id="@+id/butter_knife_three"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:id="@+id/butter_knife_four"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="16dp"
+        android:text="我拥抱着爱"
+        android:padding="6dp"
+        android:background="@drawable/shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</yisan.com.guidetest.test.test5.CustomFluidLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/gray"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/god_start_service"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="启动服务"
+        android:textSize="15sp"
+        android:textColor="@color/blue"
+        android:padding="15dp"
+        android:background="@drawable/shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/god_bind_service"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="绑定服务"
+        android:textSize="15sp"
+        android:textColor="@color/blue"
+        android:padding="15dp"
+        android:background="@drawable/shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/god_unbind_service"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="解绑服务"
+        android:textSize="15sp"
+        android:textColor="@color/blue"
+        android:padding="15dp"
+        android:background="@drawable/shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/god_get_data"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="获取数据"
+        android:textSize="15sp"
+        android:textColor="@color/blue"
+        android:padding="15dp"
+        android:background="@drawable/shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

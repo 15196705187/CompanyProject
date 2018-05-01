@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yisan.com.guidetest.my_view.CustomDragView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/custom1"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:text="时光时光慢些吧"
+        android:textSize="16sp"
+        android:textColor="@color/red"
+        android:background="@drawable/custom_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/custom2"
+        android:padding="20dp"
+        android:background="@drawable/test_shape"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/red"
+        android:textSize="17sp"
+        android:text="如果全世界我都可以放弃"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/custom3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:background="@drawable/shape"
+        android:textSize="15sp"
+        android:textColor="#02fcfc"
+        android:layout_width="wrap_content"
+        android:text="原来呀爱是为了你存在"
+        android:layout_height="wrap_content" />
+    <yisan.com.guidetest.my_view.MyTextView
+        app:myText="你妹啊！！！！"
+        app:myTextColor="@color/colorAccent"
+        app:myTextSize="22sp"
+        app:bgColor="@color/blue"
+        app:bolderWidth="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</yisan.com.guidetest.my_view.CustomDragView>
